@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the Wireless Power Laboratory
+Welcome to the Wireless Power Laboratory. Beware of the fakers and cheats.
 
 A compendium of work that has revolved around my dissertaion and published works. Have a look at:
 
