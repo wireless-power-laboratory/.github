@@ -4,7 +4,9 @@ Welcome to the Wireless Power Laboratory
 
 A compendium of work that has revolved around my dissertaion and published works. Have a look at:
 
-* [Citations](https://scholar.google.com/citations?user=51o8nzEAAAAJ&hl=cs&oi=sra)
+* [Publications](https://scholar.google.com/citations?user=51o8nzEAAAAJ&hl=cs&oi=sra)
+* [Book](https://www.amazon.com/Wireless-Power-Magnetic-Resonance-application/dp/B01F9GHQGK)
+
 
 <!--
 
