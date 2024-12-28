@@ -2,7 +2,9 @@
 
 Welcome to the Wireless Power Laboratory
 
-A compendium of work that has revolved around my dissertaion and published works.
+A compendium of work that has revolved around my dissertaion and published works. Have a look at:
+
+* [Citations](https://scholar.google.com/citations?user=51o8nzEAAAAJ&hl=cs&oi=sra)
 
 <!--
 
